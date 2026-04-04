@@ -105,18 +105,18 @@ class AIEngineer:
 
 ### Artificial Intelligence & Deep Learning
 
-#### [LSM Darija - Sign Language Recognition](https://github.com/Ysen0603/LSM_Darija_Backend)
+#### [LSM Darija - Sign Language Recognition](https://github.com/Ysen1903/LSM_Darija_Backend)
 *An end-to-end framework for Moroccan Sign Language (LSM) recognition.*
 * **The Challenge:** Recognizing temporal gestures in Moroccan Darija.
 * **The Solution:** Built a PyTorch-based **LSTM (Long Short-Term Memory)** network. Used **Mediapipe** for high-resolution hand and body landmark extraction.
 * **Key Tech:** `PyTorch` `Mediapipe` `Python` `OpenCV`
 
-#### [AI CV Analysis Web App](https://github.com/Ysen0603/cvgent)
+#### [AI CV Analysis Web App](https://github.com/Ysen1903/cvgent)
 *Intelligent recruitment tool for matching CVs with Job Descriptions.*
 * **The Solution:** Leveraged **LangChain** and **Google Gemini API** to perform semantic analysis and scoring.
 * **Key Tech:** `Next.js` `Django` `Gemini API` `LangChain`
 
-#### [Facial Emotion Detection](https://github.com/Ysen0603/YOLOV8_Emotions)
+#### [Facial Emotion Detection](https://github.com/Ysen1903/YOLOV8_Emotions)
 *Real-time recognition system for interactive environments.*
 * **The Solution:** Implemented **YOLOv8** and **CNNs** for robust feature extraction and real-time facial classification.
 * **Key Tech:** `TensorFlow` `Keras` `YOLOv8` `OpenCV`
@@ -125,7 +125,7 @@ class AIEngineer:
 
 ### Data Engineering & MLOps
 
-#### [Binance BTC Data Pipeline](https://github.com/Ysen0603/Data_Airflow_BTC)
+#### [Binance BTC Data Pipeline](https://github.com/Ysen1903/Data_Airflow_BTC)
 *Technical ETL Suite for High-Frequency Cryptocurrency Analytics.*
 
 * **The Architecture:** Implemented a **Medallion Architecture** (Bronze, Silver layers) for data lineage and quality.
@@ -144,12 +144,12 @@ class AIEngineer:
  
   <tr>
     <td align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ysen0603&theme=react-dark" alt="Activity Graph" width="640"/>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ysen1903&theme=react-dark" alt="Activity Graph" width="640"/>
     </td>
     <td align="center">
-      <img src="https://streak-stats.vercel.app/?user=Ysen0603&theme=react&hide_border=true" alt="Streak Stats" width="320"/>
+      <img src="https://streak-stats.vercel.app/?user=Ysen1903&theme=react&hide_border=true" alt="Streak Stats" width="320"/>
       <br/>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ysen0603&theme=react" alt="Profile Details" width="320"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ysen1903&theme=react" alt="Profile Details" width="320"/>
     </td>
   </tr>
 </table>
