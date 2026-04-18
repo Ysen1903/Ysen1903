@@ -86,8 +86,8 @@ class AIEngineer:
 ### AI Trainer / AI Engineer | Simplon Maghreb
 *Aug 2025 — Present*
 - **MLOps Implementation:** Leading AI/ML projects from design to production using **Azure, Airflow, and Docker**.
-- **Project Leadership:** Managing and guiding project trainers to ensure consistency in AI curriculum and deployment.
-- **Mentorship:** Training engineers and graduates in Data Science and DevOps for Machine Learning.
+- **Technical Mentorship:** Managed a team of project trainers to ensure quality and consistency in AI curriculum architecture and model deployment strategies.
+- Led technical development of production AI projects, implementing MLOps best practices for versioning, CI/CD, and monitoring.
 
 ### Full Stack Developer | Freelance
 *Sep 2025 — Present*
