@@ -30,7 +30,7 @@ class AIEngineer:
         self.name = "Yassine Ennaya"
         self.location = "Morocco 🇲🇦"
         self.education = "Ing. Intelligent Information Systems (SUPMTI)"
-        self.role = ["AI Engineer", "Full Stack Developer", "AI Trainer"]
+        self.role = ["AI Engineer", "Full Stack Developer", "Tech Lead"]
         self.specialty = "End-to-End AI Systems at Scale"
 
     def mission(self):
