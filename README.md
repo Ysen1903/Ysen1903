@@ -83,7 +83,7 @@ class AIEngineer:
 
 ## Professional Experience
 
-### AI Engineer & Tech Lead | Simplon Maghreb
+### AI Engineer | Simplon Maghreb
 *Aug 2025 — Present*
 - Architected and deployed end-to-end Machine Learning pipelines using Azure AI Foundry, Airflow, and Docker
 ensuring high availability for AI services.
