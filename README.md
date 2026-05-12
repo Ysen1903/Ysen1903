@@ -85,9 +85,14 @@ class AIEngineer:
 
 ### AI Engineer & Tech Lead | Simplon Maghreb
 *Aug 2025 — Present*
-- **MLOps Implementation:** Leading AI/ML projects from design to production using **Azure, Airflow, and Docker**.
-- **Technical Mentorship:** Managed a team of project trainers to ensure quality and consistency in AI curriculum architecture and model deployment strategies.
-- Led technical development of production AI projects, implementing MLOps best practices for versioning, CI/CD, and monitoring.
+- Architected and deployed end-to-end Machine Learning pipelines using Azure AI Foundry, Airflow, and Docker
+ensuring high availability for AI services.
+- Led technical development of production AI projects, managing complex data architectures with Microsoft SQL
+Server and implementing MLOps best practices for versioning, CI/CD, and monitoring.
+- **Training & Curriculum Design:** Conducted technical training sessions on AI, Deep Learning, and MLOps, developing
+course materials and hands-on projects to build learner competencies.
+- **API Optimization:** Developed high-performance backend services using FastAPI to serve deep learning models with
+sub-second latency
 
 ### Full Stack Developer | Freelance
 *Sep 2025 — Present*
